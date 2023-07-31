@@ -20,4 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <img src="![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-01 at 01 43 08](https://github.com/ii9oh/Tic-Tac-Toe-Game/assets/98194640/be906fb1-acc8-4630-b7a8-2604ab4336b4)
-" style=" width:60px ; height:60px "  >
+" style=" width:500px ; height:1000px "  >
