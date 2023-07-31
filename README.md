@@ -18,7 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<div style="width:60px ; height:60px">
-  ![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-01 at 01 43 08](https://github.com/ii9oh/Tic-Tac-Toe-Game/assets/98194640/fb017734-6b1f-436a-8f35-a96abf654b40)
 
-</div>
+<img src="![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-01 at 01 43 08](https://github.com/ii9oh/Tic-Tac-Toe-Game/assets/98194640/be906fb1-acc8-4630-b7a8-2604ab4336b4)
+" style=" width:60px ; height:60px "  >
