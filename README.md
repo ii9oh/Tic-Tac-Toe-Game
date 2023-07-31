@@ -20,4 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<img src="https://github.com/ii9oh/Tic-Tac-Toe-Game/assets/98194640/be906fb1-acc8-4630-b7a8-2604ab4336b4" style=" width:300px ; height:600px "  >
+
+<img src="https://github.com/ii9oh/Tic-Tac-Toe-Game/assets/98194640/be906fb1-acc8-4630-b7a8-2604ab4336b4" style=" width:300px ; height:600px ">
+<img src="https://github.com/ii9oh/Tic-Tac-Toe-Game/assets/98194640/c19834a1-5e78-427b-94e9-02160a3293d3" style=" width:300px ; height:600px ">
+<img src="https://github.com/ii9oh/Tic-Tac-Toe-Game/assets/98194640/730dd3c6-2812-4fd1-8666-48cb51cc6669" style=" width:300px ; height:600px ">
